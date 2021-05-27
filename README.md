@@ -9,3 +9,4 @@ Then, the user is asked to input another number after which, the calculation is 
 \
 \
 Additionally, the user is asked to input 'y' or 'n'. If y is input, the calculation is performed on the result of the previous calculation.
+\
