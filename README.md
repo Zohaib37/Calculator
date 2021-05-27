@@ -8,5 +8,13 @@ Then, the user is asked to input another number after which, the calculation is 
 ![calc](https://user-images.githubusercontent.com/64097953/119887719-e75dc000-bf4d-11eb-82bb-4ad9ef96a9cd.png)
 \
 \
-Additionally, the user is asked to input 'y' or 'n'. If y is input, the calculation is performed on the result of the previous calculation.
+Additionally, the user is asked to input 'y' or 'n'. If 'y' is input, the calculation is performed on the result of the previous calculation.
 \
+\
+![calc2](https://user-images.githubusercontent.com/64097953/119889196-b7afb780-bf4f-11eb-894a-a351e43fd2e5.png)
+\
+\
+However, if 'n' is chosen, the screen is cleared and a new calculation is performed.
+\
+\
+
